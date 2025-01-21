@@ -30,9 +30,19 @@ Welcome to the WebAuto! This project allows you to define automation tasks throu
 
 ---
 
+## Demo
+
+Here is a demonstration of the Web Automation workflow:
+
+![Demo Video](screenshots/1.mp4)
+
+You can also view the video directly in your browser by clicking [here](screenshots/1.mp4).
+
 ## Example JSON File
 
 Here is an example of a JSON file defining an automation workflow:
+
+---
 
 ```json
 {
