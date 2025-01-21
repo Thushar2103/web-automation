@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WebAuto
 
 Welcome to the WebAuto! This project allows you to define automation tasks through a Flutter-based UI, generate a JSON file, and execute those tasks using Python and Selenium.
@@ -35,7 +34,7 @@ Welcome to the WebAuto! This project allows you to define automation tasks throu
 
 Here is a demonstration of the Web Automation workflow:
 
-(screenshots/1.mp4)
+[Watch Demo](https://drive.google.com/file/d/1ayd33haVWCy-0MnFDXmUx7Q12s_RpstI/preview)
 
 ## Example JSON File
 
