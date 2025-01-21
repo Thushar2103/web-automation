@@ -79,7 +79,7 @@ Here is an example of a JSON file defining an automation workflow:
   ]
 }
 ```
-=======
+
 # WebAuto
 
 Welcome to the WebAuto! This project allows you to define automation tasks through a Flutter-based UI, generate a JSON file, and execute those tasks using Python and Selenium.
