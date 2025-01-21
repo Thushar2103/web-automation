@@ -34,7 +34,7 @@ Welcome to the WebAuto! This project allows you to define automation tasks throu
 
 Here is a demonstration of the Web Automation workflow:
 
-[demo](https://drive.google.com/file/d/1ayd33haVWCy-0MnFDXmUx7Q12s_RpstI/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1ayd33haVWCy-0MnFDXmUx7Q12s_RpstI/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Example JSON File
 
